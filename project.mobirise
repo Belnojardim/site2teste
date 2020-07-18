@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Meu Site Teste",
-    "currentPage": "inde.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -77,7 +77,7 @@
     "gdpr": false
   },
   "pages": {
-    "index.html": {
+    "page1.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Bel no Jardim",
@@ -1815,7 +1815,7 @@
         }
       ]
     },
-    "inde.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Not Home",
